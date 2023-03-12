@@ -1,2 +1,2 @@
 # terraform-study
-terraform-up-and-running 실습
+terraform-up-and-running
